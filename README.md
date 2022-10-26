@@ -1,7 +1,7 @@
 
-# Homeez App Demo
+# Home Renovation App Demo
 
-This is Demo app for Homeez. I created it by inspiring react-planner and Homeez. 
+This is Demo app for Home Renovation. I created it by inspiring react-planner. 
 
 ## Features
 
